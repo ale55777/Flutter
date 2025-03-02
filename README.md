@@ -1,2 +1,2 @@
 # Flutter
-Mobile Application Development By Flutter 
+Mobile Application Development 
